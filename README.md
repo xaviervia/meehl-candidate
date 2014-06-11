@@ -19,7 +19,7 @@ Orthogonality
 Kahneman compellingly argues that algorithms for decision making should be kept simple. There are two reasons for this:
 
 1. Studies have shown that no significant improvements come up from adding complexity
-2. One of the main strength of algorithms, that is consistency, remains apparent in even simple formulas.
+2. One of the main strength of algorithms, that is consistency, remains apparent  even in simple formulas.
 
 I want to expand this notion by my impression that further addition of variables increases the risk of having some variables with correlations between them. I find a mathematical description of the problem useful at this point.
 
