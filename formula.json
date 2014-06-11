@@ -1,0 +1,50 @@
+{
+  "scores": [
+      {
+        "topic": "Communication",
+        "questions": [
+          "Understands what it's told?",
+          "Explains clearly what needs to explain?"
+        ],
+        "score": 10
+      },
+
+      {
+        "topic": "Motivation",
+        "questions": [
+          "Does she/he like the tasks?",
+          "Can describe credibly his/hers career vision?"
+        ],
+        "score": 10
+      },
+
+      {
+        "topic": "Skill (specific)",
+        "questions": [
+          "Does she/he knows the tools that are used everyday?",
+          "Has he/she used the tools?",
+          "Can she/he describe the usage and purpose of the tools?"
+        ],
+        "score": 10
+      },
+
+      {
+        "topic": "Knowledge (industry wide)",
+        "questions": [
+          "Did she/he work with people from related departments?",
+          "Has she/he worked with different technologies?",
+          "Can he/she describe the role of the industry on society?"
+        ],
+        "score": 10
+      },
+
+      {
+        "topic": "Impression",
+        "questions": [
+          "Can you imagine this person in the position?",
+          "What is your overall impression?"
+        ],
+        "score": 10
+      }
+  ]
+}

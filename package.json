@@ -1,0 +1,16 @@
+{
+  "name": "meehl-candidate",
+  "version": "0.0.1",
+  "description": "Meehl formula for candidate scoring",
+  "main": "formula.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meehl",
+    "candidate",
+    "scoring"
+  ],
+  "author": "Xavier Via <fernando.via@gmail.com>",
+  "license": "BSD-2-Clause"
+}
