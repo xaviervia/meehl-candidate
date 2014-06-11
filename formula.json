@@ -4,9 +4,9 @@
         "topic": "Communication",
         "questions": [
           "Understands what it's told?",
-          "Explains clearly what needs to explain?"
+          "Explains clearly what needs to be explained?"
         ],
-        "score": 10
+        "value": 10
       },
 
       {
@@ -15,7 +15,7 @@
           "Does she/he like the tasks?",
           "Can describe credibly his/hers career vision?"
         ],
-        "score": 10
+        "value": 10
       },
 
       {
@@ -25,7 +25,7 @@
           "Has he/she used the tools?",
           "Can she/he describe the usage and purpose of the tools?"
         ],
-        "score": 10
+        "value": 10
       },
 
       {
@@ -35,7 +35,7 @@
           "Has she/he worked with different technologies?",
           "Can he/she describe the role of the industry on society?"
         ],
-        "score": 10
+        "value": 10
       },
 
       {
@@ -44,7 +44,7 @@
           "Can you imagine this person in the position?",
           "What is your overall impression?"
         ],
-        "score": 10
+        "value": 10
       }
   ]
 }
