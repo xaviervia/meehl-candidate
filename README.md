@@ -3,6 +3,11 @@ Meehl formula for job candidates
 
 Since this is the first formula I compile, I will myself extend over several specifics before justifying the choice of the actual scores.
 
+Usage
+-----
+
+This is a package for the [`meehl`](https://github.com/xaviervia/meehl) tool. Check out how to use meehl formulas in the meehl tool README.
+
 Origin
 ------
 
