@@ -1,7 +1,5 @@
-Candidate formula
-=================
-
-Meehl formula for candidate scoring.
+Meehl formula for job candidates
+================================
 
 Since this is the first formula I compile, I will myself extend over several specifics before justifying the choice of the actual scores.
 
