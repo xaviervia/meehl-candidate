@@ -11,6 +11,13 @@
     "candidate",
     "scoring"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xaviervia/meehl-candidate"
+  },
   "author": "Xavier Via <fernando.via@gmail.com>",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/xaviervia/meehl-candidate/issues"
+  }
 }
